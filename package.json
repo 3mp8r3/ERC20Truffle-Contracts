@@ -1,0 +1,26 @@
+{
+  "name": "erc20-truffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kungfu-frog/ERC20-truffle.git"
+  },
+  "author": "Kungfu Frog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kungfu-frog/ERC20-truffle/issues"
+  },
+  "homepage": "https://github.com/kungfu-frog/ERC20-truffle#readme"
+}
