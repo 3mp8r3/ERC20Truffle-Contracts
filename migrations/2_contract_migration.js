@@ -1,7 +1,7 @@
 var erc20truffle = artifacts.require("./ERC20Truffle.sol");
 
 const _name = "ERC20Truffle";
-const _symble = "ERCT";
+const _symbol = "ERCT";
 const _total_supply = 100000000000;
 
 module.exports = function (deployer) {
